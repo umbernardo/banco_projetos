@@ -1,0 +1,15 @@
+{
+    "require": {
+        "doctrine/orm": "2.4.*",
+        "phpmailer/phpmailer": "dev-master",
+        "mapado/mysql-doctrine-functions": "1.*"
+    },
+    "autoload": {
+        "classmap": [
+            "framework/",
+            "app/componentes/",
+            "app/controllers/",
+            "app/entidades/"
+        ]
+    }
+}
