@@ -26,7 +26,7 @@ return array(
         'url_site' => $urlSite,
     ),
     'database' => array(
-        'host' => 'bm106.webservidor.net',
+        'host' => 'localhost',
         'user' => 'umbernar_usr_prj',
         'password' => '4uO,Kq[SccV.',
         'dbname' => 'umbernar_db_projetos',
